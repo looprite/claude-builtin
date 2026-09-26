@@ -24,11 +24,11 @@ This repo is itself the working example: this GitHub repo is public, and you're 
 
 Not sure yet whether this is worth setting up? Paste this into a chat with Claude first:
 
-> Take a look at github.com/saaswise-cc/claude-builtin — in plain terms, what would this actually help me do, and why should I care? Ask me a question or two about the kind of work I do if that'll help you give a real answer, and be honest if you don't think it'd be useful for me.
+> Take a look at github.com/looprite/claude-builtin — in plain terms, what would this actually help me do, and why should I care? Ask me a question or two about the kind of work I do if that'll help you give a real answer, and be honest if you don't think it'd be useful for me.
 
 Ready to actually build it? You don't need to read anything else on this page first — go to [claude.ai](https://claude.ai), start a new chat, and paste this instead:
 
-> I want to set up the "Claude, Built In" starter kit from github.com/saaswise-cc/claude-builtin. I've never used Claude, GitHub, Linear, or Neon before — walk me through it step by step, starting with whatever comes first, and adjust as we go based on what I already have set up.
+> I want to set up the "Claude, Built In" starter kit from github.com/looprite/claude-builtin. I've never used Claude, GitHub, Linear, or Neon before — walk me through it step by step, starting with whatever comes first, and adjust as we go based on what I already have set up.
 
 This repo is public, so Claude can read it directly and walk you through account creation, connecting the tools, and building your own version conversationally — asking what you need instead of you having to parse a long document alone. That's not a gimmick to shorten this page; it's the actual point of the project.
 
